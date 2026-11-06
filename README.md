@@ -1,16 +1,31 @@
-## Hi there 👋
+# Karel Jakub
 
-<!--
-**KarelJakub/KarelJakub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Punk engineer. AI-first. Hard boundaries, real controls.**
 
-Here are some ideas to get you started:
+I build autonomous software systems where agents do the work and deterministic QA decides if the output is allowed to ship.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I actually ship
+- Multi-agent orchestration with explicit roles, handoffs, and fail-closed gates
+- QA tools that map documentation claims to executable tests and return CLEAR / VETO / ESCALATE
+- Non-custodial Solana tools and developer kits that keep agents away from secrets and live systems
+
+### Core work
+| Project | What it is |
+|---------|------------|
+| [QA-Ecosystem](https://github.com/quillhog0/QA-Ecosystem) | Deterministic QA control plane for AI-generated code |
+| [safe-agent-kit](https://github.com/quillhog0/safe-agent-kit) | Drop-in AGENTS.md role templates that keep coding agents inside hard limits |
+| [Quillhog](https://github.com/quillhog0) | Brand for production Solana tools and the autonomous factory behind them |
+
+### Positioning
+- AI agents and their orchestration
+- Developer tools with real safety boundaries
+- QA that actually stops bad output instead of rubber-stamping it
+- Practical Linux / automation when it solves a real problem
+
+**Currently building:** Autonomous software factory (Mistr Továrny → production → QA → sales) that produces and sells real tools with minimal human involvement.
+
+[quillhog.xyz](https://quillhog.xyz) · [@Quillhog0](https://x.com/Quillhog0) · [@kareljakub](https://x.com/kareljakub)
+
+---
+
+*This profile is the engineer. [quillhog0](https://github.com/quillhog0) is the brand.*
