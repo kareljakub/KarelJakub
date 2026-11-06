@@ -12,6 +12,7 @@ I build autonomous software systems where agents do the work and deterministic Q
 ### Core work
 | Project | What it is |
 |---------|------------|
+| [agent-orchestration](https://github.com/KarelJakub/agent-orchestration) | High-level architecture of the autonomous factory (roles, QA gates, production loop) |
 | [QA-Ecosystem](https://github.com/quillhog0/QA-Ecosystem) | Deterministic QA control plane for AI-generated code |
 | [safe-agent-kit](https://github.com/quillhog0/safe-agent-kit) | Drop-in AGENTS.md role templates that keep coding agents inside hard limits |
 | [Quillhog](https://github.com/quillhog0) | Brand for production Solana tools and the autonomous factory behind them |
